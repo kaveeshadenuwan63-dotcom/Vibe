@@ -1,0 +1,6 @@
+{
+  "name": "Vibe",
+  "description": "Vibe is an ultra-futuristic messaging platform set in 2040, featuring a premium Frosted Glass theme, advanced AI clone proxies, dynamic mood rings, live emotion bio-sensing telemetry, and a neural auto-translation link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
